@@ -1,0 +1,8 @@
+{
+  "name": "Ms. Beauty AI - Voice Call",
+  "description": "Real-time Sinhala voice assistant for beauty and skincare, providing an immersive video-call experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
